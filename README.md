@@ -2,7 +2,7 @@
 
 A React Dashboard Admin Template built on top of Amplify UI.
 
-Live Demo: [https://amplify-ui-dashboard-demo.vercel.app/](https://amplify-ui-dashboard-demo.vercel.app/).
+Live Demo: https://iridescent-moonbeam-387379.netlify.app/.
 
 
 ## Setup
