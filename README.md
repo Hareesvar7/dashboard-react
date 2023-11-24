@@ -4,9 +4,6 @@ A React Dashboard Admin Template built on top of Amplify UI.
 
 Live Demo: [https://amplify-ui-dashboard-demo.vercel.app/](https://amplify-ui-dashboard-demo.vercel.app/).
 
-Amplify UI Docs: [https://ui.docs.amplify.aws/react/getting-started/introduction](https://ui.docs.amplify.aws/react/getting-started/introduction).
-
-![preview](./preview.png)
 
 ## Setup
 
@@ -30,12 +27,3 @@ run the app in dev mode
 npm run dev
 ```
 
-
-
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-## License
-
-MIT
